@@ -1,2 +1,0 @@
-# pizzaria
-Repositorio pizzaria
