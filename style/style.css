@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Rubik;
+    src: url(../fonts/Rubik-Regular.ttf);
+}
+@font-face {
+    font-family: RubikB;
+    src: url(../fonts/Rubik-Bold.ttf);
+}
+@font-face {
+    font-family: RubikI;
+    src: url(../fonts/Rubik-Italic.ttf);
+}
+@font-face {
+    font-family: Tiza;
+    src: url(../fonts/tiza.ttf);
+}
+body{
+    font-family: Rubik;
+}

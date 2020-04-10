@@ -11,4 +11,4 @@ $config['db']['user']   = "root";
 $config['db']['pass']   = "";
 $config['db']['dbname'] = "";
 
-define('PATH', 'http://'.$_SERVER['SERVER_ADDR']."/NOMEDOPROJETO");
+define('PATH', 'http://localhost/pizzaria/');
